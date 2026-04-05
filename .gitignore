@@ -217,3 +217,7 @@ __marimo__/
 
 results.json
 results-deduped.json
+
+.env.tournament
+.env.eon
+tournament_players.csv
