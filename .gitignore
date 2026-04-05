@@ -221,3 +221,4 @@ results-deduped.json
 .env.tournament
 .env.eon
 tournament_players*.csv
+debug*.html
