@@ -220,4 +220,4 @@ results-deduped.json
 
 .env.tournament
 .env.eon
-tournament_players.csv
+tournament_players*.csv
